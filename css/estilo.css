@@ -48,3 +48,24 @@ body {
     text-decoration: none;
     color: var(--branco-principal);
 }
+
+
+.secundario__imagem {
+    width: 80%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 6em;
+}
+
+.descricaoo__titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.descricaoo__texto {
+    color: var(--cinza-secundario);
+}
