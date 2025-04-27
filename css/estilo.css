@@ -27,6 +27,12 @@ body {
     background-image: url(../img/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
+    margin: 0 6em;
+    align-items: center;
+}
+
+.principal__imagem {
+    margin: 1em 0 2em 0;
 }
 
 .container {
@@ -49,6 +55,7 @@ body {
     padding: 1em;
     border-radius: 5px;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao-secundario {
