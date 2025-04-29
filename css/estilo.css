@@ -69,3 +69,7 @@ body {
 .descricaoo__texto {
     color: var(--cinza-secundario);
 }
+
+.dispositivos {
+    display: flex;
+}
